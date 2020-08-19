@@ -1,7 +1,20 @@
 # Data Science Capstone Project
-Student name: Cynthia Pedrasa
 
 ##  **Predicting 30-Day All-Cause Readmission from Hospital Discharge Summary**
+
+Student name: **Cynthia Pedrasa**  
+Student pace: **self paced**  
+Scheduled project review date/time:  **Monday, July 27, 2020**  
+Instructor name: **Jeff Herman**  
+Deliverables:
+1. Jupyter Notebooks:  
+    a. [Data Preprocessing](https://github.com/cynthiapedrasa/predicting-readmission-nlp-from-discharge-summary/blob/master/Part1_Data_Preprocessing.ipynb)  
+    b. [NLP Text Preparation](https://github.com/cynthiapedrasa/predicting-readmission-nlp-from-discharge-summary/blob/master/Part2_NLP_Text_Data_Preparation.ipynb)  
+    c. [Model tuning](https://github.com/cynthiapedrasa/predicting-readmission-nlp-from-discharge-summary/blob/master/Model_Tuning.ipynb)   
+
+2. [Blog Post:](https://cpedrasa.github.io/predicting_30-day_all_cause_readmission_from_hospital_discharge_summary)  
+
+3. [Executive Summary:](https://github.com/cynthiapedrasa/predicting-readmission-nlp-from-discharge-summary/blob/master/PredictingReadmissionsCapstone.pdf)  
 
 
 
